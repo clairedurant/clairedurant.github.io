@@ -1,1 +1,8 @@
-style.
+img {
+    width: 150px;
+}
+body {
+    text-align: center;
+    font-family: arial;
+    background-color: #79ff4d;
+}
