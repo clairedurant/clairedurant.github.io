@@ -3,6 +3,8 @@ img {
 }
 body {
     text-align: center;
-    font-family: arial;
-    background-color: #79ff4d;
+    font-family: helvetica;
+    text-decoration: italic;
+    text-decoration: #FFFFFF;
+    background-color: #FDADC6;
 }
