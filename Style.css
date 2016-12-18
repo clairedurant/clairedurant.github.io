@@ -4,7 +4,6 @@ img {
 body {
     text-align: center;
     font-family: helvetica;
-    text-decoration: italic;
-    text-decoration: #FFFFFF;
+    color: #FFFFFF;
     background-color: #FDADC6;
 }
